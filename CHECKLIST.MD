@@ -1,5 +1,7 @@
 # Git commands!
 
+Note: check permissions to the playground first!
+
 ## Read
 
 + [ ] `git clone`
